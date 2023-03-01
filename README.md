@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Q9K
+1. studying software engineering at BUAA
+2. email: 20374319@buaa.edu.cn
+3. currently learn vue and django
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Q9-K)](https://github.com/Q9-K/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Q9-K&show_icons=true&theme=tokyonight)
