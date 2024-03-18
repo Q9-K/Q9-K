@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-## Q9K
+## My Profile
 1. studying software engineering at BUAA
 2. email: 20374319@buaa.edu.cn
-3. currently learn vue and django
+3. I'm interested in frontend engineering and docker.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Q9-K)](https://github.com/Q9-K/github-readme-stats)
 
