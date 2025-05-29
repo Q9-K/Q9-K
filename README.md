@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ## My Profile
 1. studying software engineering at BUAA
-2. email: 20374319@buaa.edu.cn
-3. I'm interested in frontend engineering and docker.
+2. email: K20374319@gmail.com
+3. I'm interested in eeg and llm.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Q9-K)](https://github.com/Q9-K/github-readme-stats)
 
