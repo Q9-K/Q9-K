@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 
 ## My Profile
-1. studying software engineering at BUAA
-2. email: K20374319@gmail.com
-3. I'm interested in eeg and llm.
+1. graduated from BUAA, majored in software engineering
+2. studying at casia, majoring in bci
+3. email: K20374319@gmail.com
+4. I'm interested in eeg and llm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Q9-K)](https://github.com/Q9-K/github-readme-stats)
 
